@@ -53,4 +53,4 @@ utils.py: Funciones para el cálculo de interpolaciones.
 
 
 
-Autor: Leonel Saballos
+Autor: Leonel Saballos y compañeros de trabajo
